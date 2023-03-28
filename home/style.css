@@ -1,0 +1,58 @@
+body{
+    background-image: url(foto\ fundo.png);
+    margin: 0;
+    padding: 0;
+}
+    
+
+header{
+    background-color: black;
+}
+
+.conteudo{
+    border-top: 2px solid aqua;
+}
+
+.reta{
+    border-left: 2px solid white;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.cabecalho{
+    color: darkgoldenrod;
+    align-items: center;
+    display: flex;
+    height: 40px;
+    background-color: black;
+}
+
+.cabecalho-lado{
+    display: flex;
+    justify-content: end;
+    margin-left: 500px;
+    font-size: 15px;
+}
+
+.cabecalho-canto{
+    display: flex;
+    justify-content: start;
+    margin-left: 150px;
+    color: aqua;
+}
+
+.cabecalho-menu-item{
+    padding: 20px;
+    margin-left: 30px;
+}
+
+.item-conteudo{
+    color: white;
+    margin-top: 100px;
+   margin-left: 500px;
+   font-size: 20px;
+}
+
+.azul{
+    color: aqua;
+}
